@@ -1,3 +1,4 @@
+# DataGrid for Blazor - How to implement an external Search Panel
 
 While the Search Panel is not supported for the DataGrid component, this example shows how to implement an external Search Panel to filter the grid.
 
